@@ -1,0 +1,18 @@
+<!doctype html>
+    <html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="">
+            <meta charset="UTF-8">
+            <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+            <title>Participating Yarn Shops: James River Yarn Crawl</title>
+        </head>
+        <title> Participating Yarn Shops: James River Yarn Crawl </title>
+        <header><h1> Participating Yarn Shops </h1></header>
+        <div class="topnav">
+          <a href="#home">Home</a>
+          <a href="Virginia Yarn Crawl/participatingshops.html">Participating Shops</a>
+          <a href="#Findyourway">Find Your Way</a>
+          <a href="whatisayarncrawl">What is a yarn crawl?</a>
+          <a href="contact">Contact </a> </div>
+          
+        

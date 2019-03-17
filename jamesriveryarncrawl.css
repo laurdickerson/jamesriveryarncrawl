@@ -1,0 +1,127 @@
+/* CSS Document */
+body {
+  background: white;
+  margin: 0;
+  padding: 0;
+  font-family:'Amatic SC', cursive;
+  font-size: 30px;
+  width: 100%;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+.header {
+  text-align: center;
+  padding: 20px;
+  background: #bddcff;
+  color: black;
+  font-size: 50px;
+  font-family:'Amatic SC', cursive;
+}
+.topnav {
+  width: 100%;
+  display: table; 
+  text-align: center;
+  background-color: #0077ff;
+  overflow: hidden;
+  height: 50px;
+  font-family: 'Amatic SC', cursive;
+}
+.topnav a {
+  display: inline-flex;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+.topnav a:hover{
+  background-color: white;
+  color: red;
+}
+.topnav a.active {
+  background-color: white;
+  color: red;
+}
+.sectiontwo {
+  margin: .5em;
+  padding: .5em;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+}
+#yarnspread {
+  display: flex;
+  margin: .5em;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 10px;
+}
+p {
+text-align: center;
+}
+.bottomnav {
+  width: 25%;
+  display: table; 
+  text-align: center;
+  background-color: #bddcff;
+  overflow: hidden;
+  height: 1em;
+  border: solid 1em white;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  font-family:'Amatic SC', cursive;
+}
+.bottomnav a {
+  display: inline-flex;
+  color: black;
+  text-align: center;
+  padding: .5em;
+  text-decoration: none;
+  font-size: 30px;
+}
+.bottomnav a:hover {
+  background-color: red;
+  color: #ddc9e8;
+}
+.bottomnav a.active {
+  background-color: white;
+  color: #ddc9e8;
+}
+.socialmedia {
+    display: inherit;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  display: flex;
+  align-content: center;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #55ACEE;
+  color: white;
+}
